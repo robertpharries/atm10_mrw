@@ -4,4 +4,7 @@
 masherMaxUpgrade = 10
 #Fan blades are stronger, fan is only blocked by more solid blocks
 fanStrongerBlades = false
+#Saw doesn't animate on active
 sawAnimation = true
+#Saw doesn't have teeth to reduce impact on FPS
+sawSimpleModel = true
